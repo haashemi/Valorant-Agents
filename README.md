@@ -2,7 +2,7 @@
 
 # Valorant Agents Image Generator
 
-## <h2>Simple project to generating image icons of the Valorant Agents</h2>
+## Simple project to generating image icons of the Valorant Agents
 
 </div>
 
