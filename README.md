@@ -1,10 +1,6 @@
-<div align="center">
-
 # Valorant Agents Image Generator
 
 ## Simple project to generating image icons of the Valorant Agents
-
-</div>
 
 ## How to use?
 
