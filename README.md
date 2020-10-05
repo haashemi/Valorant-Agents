@@ -8,7 +8,7 @@
 
 ## Simple project to generating image icons of the Vaolrant Agents
 
-- If you ant to use it, you only need **pillow** module
+- If you want to use it, you only need to install **pillow** module if you don't have it
 
       pip3 install pillow
 
