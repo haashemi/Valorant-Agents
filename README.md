@@ -1,13 +1,16 @@
-![Valorant Agents](./assets/Banner.jpg)
+<div align="center">
 
 # Valorant Agents Image Generator
 
-## How to use?
+![Valorant Agents](./assets/Banner.jpg)
 
-- JUST RUN IT! It has nothing special. if you ever worked with python, you only need to install PILL module,
-  if you don't have it you can download it with:
+</div>
 
-      >>> pip3 install pillow
+## Simple project to generating image icons of the Vaolrant Agents
+
+- If you ant to use it, you only need **pillow** module
+
+      pip3 install pillow
 
 ## Special thanks to:
 
